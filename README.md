@@ -1,6 +1,5 @@
 ## README.md
 
-````md
 # Air Canvas using OpenCV and MediaPipe
 
 An AI-powered virtual drawing application that allows users to draw in the air using hand gestures through a webcam. Built using Python, OpenCV, and MediaPipe.
@@ -47,7 +46,7 @@ An AI-powered virtual drawing application that allows users to draw in the air u
 ```bash
 git clone https://github.com/yourusername/air-canvas.git
 cd air-canvas
-````
+```
 
 ## 2. Create virtual environment (Optional)
 
